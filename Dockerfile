@@ -1,3 +1,5 @@
+# cd-key 8tdbb8v2wxfwpP63zg3snhqP6mhdc3yhdc3yhg6mhdc3rP6mhdsPhkhdc3rP6mhzzdc3rPh3rP6F4b5h2x
+
 FROM tomcat:7.0-jdk8-openjdk as tomcat-jdk
 
 FROM ubuntu:18.04 
