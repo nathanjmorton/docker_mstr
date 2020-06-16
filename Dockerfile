@@ -1,8 +1,7 @@
 # download link
 # https://mirror.microstrategy.com/software/11.2/GA/MicroStrategy%2011.2%20Secure%20Enterprise/MicroStrategy_11.2_IntelligentEnterprise_Linux_11.2.0000.2270.tar.gz
 
-# cd-key 
-# 8tdbb8v2wxfwpP63zg3snhqP6mhdc3yhdc3yhg6mhdc3rP6mhdsPhkhdc3rP6mhzzdc3rPh3rP6F4b5h2x
+
 
 FROM tomcat:7.0-jdk8-openjdk as tomcat-jdk
 
